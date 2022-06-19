@@ -18,7 +18,7 @@ I loved using it. Being a native app by Apple, it was snappy and free. I viewed 
 
 However, as much as I liked using it, I soon ran into limitations with the interface. The search seemed lacking; a simple text search wasn't cutting it for me. As a software engineer, I also store a lot of code snippets in my notes, which Notes does not support. I also am pretty used to the quick formatting offered by markdown-based tools, which in Notes takes several clicks or keyboard shortcuts to remember. The lack of wiki or backlinking is also a big downside for me as it's a vital tool to add structure to my notes sprawl.
 
-## Evernotes
+## Evernote
 I confess that I jumped on the Evernote bandwagon quite late. I tried Evernotes briefly in 2016 and stuck with it for six months. I tried it again in 2021, but this time gave up in less than a day. Both times it failed me on my single most important criterion of note-taking apps: speed.
 
 Writing in Evernotes felt laggy and devoid of any simpleness to it. I also felt that Evernote was trying to be a kitchen sink for everything productivity-related (tasks, calendars, project management etc.) but with a janky UX. I admit this works for many people, and I know colleagues that breeze through their documents in Evernote like it's nobody's business. But, for me, it was a chore.
@@ -31,7 +31,7 @@ Another plus for me was the seamless markdown editing experience. It feels well 
 However, it hasn't always been smooth sailing with Bear. I miss tables that are almost table stakes ;) for most note-taking apps these days. The wiki link, as good as it may be, I wish it had backlinks and, perhaps even better, a graph view similar to Obsidian or LogSeq to understand and consolidate bits of knowledge that get scattered across multiple notes. The app also hasn't seen any significant changes in the time I have been using it. Bear is good if you want a Markdown-based alternative to Apple Notes, but it was not suited to my workflow for anything more complicated than that.
 
 ## Notion
-I tried using it for the first time three years ago, in 2017. I drank the kool-aid before it became hip at the start of the remote work wave. At that time, I felt like I was doing too much, or maybe Notion was not sure.
+I tried using it for the first time three years ago, in 2019. I drank the kool-aid before it became hip at the start of the remote work wave. At that time, I felt like I was doing too much, or maybe Notion was not sure.
 
 Whenever I tried Notion, I kept wasting time trying to work out the compelling features under the hood. I would start with a basic template and then get carried away trying to waste too many hours thinking if what I wanted to put in the tool was a database or not. The constant needing to curate rather than create was a drain. The UX also felt a bit slower than the plain text note-taking, and the no offline access was a pain when I put some camping recipes in it, and I didn't have access to it when I reached the actual campgrounds.
 
